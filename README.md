@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FFB6D9,100:E7C6FF&height=200&section=header&text=%E2%99%A1%20hi,%20i'm%20mari!%20%E2%99%A1&fontColor=8F5F79&fontSize=46&fontAlignY=36&desc=software%20engineer%20%E2%9C%BF%20builder%20%E2%9C%BF%20pianist&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FFB6D9,100:E7C6FF&height=200&section=header&text=%E2%99%A1%20hi,%20i'm%20mari!%20%E2%99%A1&fontColor=8F5F79&fontSize=46&fontAlignY=36&desc=full-stack%20engineer%20%E2%9C%BF%20game%20dev%20%E2%9C%BF%20pianist&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 # ˚ʚ♡ɞ˚ Marissa Curry ˚ʚ♡ɞ˚
 
-**Backend & Systems Engineer · UC Berkeley MAS-E (Power & Autonomous Systems) · Applied AI Builder**
+**Full-Stack Engineer · Game Developer · Backend & Systems · UC Berkeley MAS-E (Power & Autonomous Systems) · Applied AI Builder**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FF6FB5&center=true&vCenter=true&width=600&lines=%E2%99%A1+Backend+systems+in+C%23+%2B+AWS+%E2%99%A1;%E2%9C%BF+Game+economies+and+ranking+systems+in+Luau+%E2%9C%BF;%E2%8B%86+Software+that+touches+hardware+%E2%8B%86;(%E2%97%95%E2%80%BF%E2%97%95)+Making+tech+a+little+more+kawaii+%E2%99%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FF6FB5&center=true&vCenter=true&width=600&lines=%E2%99%A1+Full-stack+engineer+%2B+game+developer+%E2%99%A1;%E2%8B%86+C%2B%2B%2C+C%23%2C+TypeScript%2C+Python+%E2%8B%86;%E2%9C%BF+Game+economies+and+ranking+systems+in+Luau+%E2%9C%BF;%E2%8B%86+Software+that+touches+hardware+%E2%8B%86;(%E2%97%95%E2%80%BF%E2%97%95)+Making+tech+a+little+more+kawaii+%E2%99%A1" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/♡_marissacodes.com-FFB6D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marissacodes.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C8A2FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marissa-curry-93674b33)
@@ -20,7 +20,7 @@
 
 ## ♡ about me ‧₊˚
 
-- 🌷 I'm a software engineer who likes owning the layer everything else depends on: data persistence, economies, ranking, and the services that keep them correct.
+- 🌷 I'm a full-stack engineer and game developer working in C++, C#, TypeScript, and Python. I especially like owning the layer everything else depends on: data persistence, game economies, ranking, and the services that keep them correct.
 - 🎓 I'm a master's student at **UC Berkeley** (MAS-E, Power & Autonomous Systems, Class of 2027), where I work at the boundary between software and physical systems.
 - 🏡 Before that I built backend services at **CoStar Group (Homes.com)** and worked in investment technology at **Wellington Management**.
 - ✨ I'm a former **MIT AI Research Fellow**, a **JP Morgan hackathon winner**, and I've spoken at **Congress on equitable AI**.
@@ -105,6 +105,7 @@ An AI Instagram strategy tool that plans your grid and connects creators through
 
 **♡ languages**
 
+![C++](https://img.shields.io/badge/C%2B%2B-E7A6F0?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-FFB6D9?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFA6C9?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7A8D8?style=for-the-badge&logo=typescript&logoColor=white)
