@@ -11,6 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/♡_marissacodes.com-FFB6D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marissacodes.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C8A2FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marissa-curry-93674b33)
 [![X](https://img.shields.io/badge/@marisummerss-FF8FC7?style=for-the-badge&logo=x&logoColor=white)](https://x.com/marisummerss)
+[![TikTok](https://img.shields.io/badge/TikTok-FF6FB5?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@marisummerss)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FFA6C9?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/marisummerss)
 [![Email](https://img.shields.io/badge/Email-F7A8D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marissacurry809@gmail.com)
 
@@ -159,6 +160,8 @@ An AI Instagram strategy tool that plans your grid and connects creators through
 ## 💌 say hello ‧₊˚
 
 I'm always happy to talk about backend systems, robotics, game economies, or applied AI. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/marissa-curry-93674b33) or [email](mailto:marissacurry809@gmail.com). ♡
+
+🎬 Want to see what I'm building? Watch my videos on [TikTok @marisummerss](https://www.tiktok.com/@marisummerss)!
 
 <div align="center">
 
