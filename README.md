@@ -142,7 +142,7 @@ An AI Instagram strategy tool that plans your grid and connects creators through
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=sunnymari&show_icons=true&hide_border=true&include_all_commits=true&bg_color=FFF0F6&title_color=FF6FB5&icon_color=FF8FC7&text_color=8F5F79&ring_color=FF8FC7&border_radius=16" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sunnymari&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=FF6FB5&text_color=8F5F79&border_radius=16" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sunnymari&bg_color=FFF0F6&color=8F5F79&line=FF8FC7&point=FF6FB5&area=true&area_color=FFB6D9&hide_border=true&radius=16&custom_title=%E2%99%A1%20My%20GitHub%20Activity%20%E2%99%A1" />
+<img height="190" src="https://streak-stats.demolab.com?user=sunnymari&background=FFF0F6&border=FFB6D9&ring=FF8FC7&fire=FF6FB5&currStreakNum=8F5F79&sideNums=8F5F79&currStreakLabel=FF6FB5&sideLabels=FF6FB5&dates=B48AA0&stroke=FFD6E8&hide_border=true&border_radius=16" alt="GitHub streak stats" />
 
 </div>
 
