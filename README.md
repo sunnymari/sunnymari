@@ -6,7 +6,7 @@
 
 **Full-Stack Engineer · Game Developer · Backend & Systems · UC Berkeley MAS-E (Power & Autonomous Systems) · Applied AI Builder**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FF6FB5&center=true&vCenter=true&width=600&lines=%E2%99%A1+Full-stack+engineer+%2B+game+developer+%E2%99%A1;%E2%8B%86+C%2B%2B%2C+C%23%2C+TypeScript%2C+Python+%E2%8B%86;%E2%9C%BF+Game+economies+and+ranking+systems+in+Luau+%E2%9C%BF;%E2%8B%86+Software+that+touches+hardware+%E2%8B%86;(%E2%97%95%E2%80%BF%E2%97%95)+Making+tech+a+little+more+kawaii+%E2%99%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FF6FB5&center=true&vCenter=true&width=600&lines=%E2%99%A1+Full-stack+engineer+%2B+game+developer+%E2%99%A1;%E2%8B%86+C%2B%2B%2C+C%23%2C+TypeScript%2C+Python+%E2%8B%86;%F0%9F%8C%B1+Building+Sprout%3A+making+AI%27s+grid+demand+visible+%F0%9F%8C%B1;%E2%8B%86+Software+that+touches+hardware+%E2%8B%86;(%E2%97%95%E2%80%BF%E2%97%95)+Making+tech+a+little+more+kawaii+%E2%99%A1" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/♡_marissacodes.com-FFB6D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marissacodes.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C8A2FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marissa-curry-93674b33)
@@ -31,7 +31,30 @@
 
 <div align="center">˚ ༘ ♡ ⋆｡˚ ❀ ˚ ༘ ♡ ⋆｡˚</div>
 
-## ✿ flagship work ‧₊˚
+## 🌱 spotlight: Sprout ‧₊˚
+
+<div align="center">
+
+### [✿ Sprout ✿](https://marissacodes.com/sprout)
+**Make AI's grid demand visible, then tell households what to do about it tonight.**
+
+`React` `Three.js` `Google Gemini` `Vercel` `Supabase` `CAISO data`
+
+[![Try Sprout](https://img.shields.io/badge/♡_try_sprout-B5D99C?style=for-the-badge&logo=leaflet&logoColor=white)](https://marissacodes.com/sprout)
+
+</div>
+
+AI data centers are reshaping electricity demand, and they cluster in a few hubs like Northern Virginia, Dallas, and Phoenix. Households on time-of-use plans pay the most when data center load and home demand overlap in the evening, but nothing connects "the grid is stressed" to "shift your dishwasher tonight." Sprout does.
+
+- 🗺️ **Live 3D map** of 7 real U.S. data center hubs, with the largest power plants and providers overlaid
+- ⚡ **Live grid reading** from CAISO's public feeds: real-time California demand and wholesale price, refreshed every 5 minutes
+- 💬 **Ask Sprout**: enter your utility, city, time-of-use plan, and appliances, and Gemini returns a run-now-or-wait schedule with reasons
+- 🔬 **The research question**: Sprout writes the same advice two ways, framed around AI demand and framed as generic "peak hours," to test whether naming AI as the cause changes behavior
+- 📊 Public dated research tracker, an anonymous framing vote, and a waitlist for companion hardware (a smart plug and kitchen display, in development)
+
+<div align="center">˚ ༘ ♡ ⋆｡˚ ❀ ˚ ༘ ♡ ⋆｡˚</div>
+
+## ✿ more work ‧₊˚
 
 <table>
 <tr>
@@ -41,24 +64,6 @@
 `C#` `AWS Lambda` `ECS` `DynamoDB` `S3`
 
 Built and maintained backend services for a large real estate platform at CoStar Group. Raised test coverage above 90% and traced production bugs across distributed microservices.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌟 Starcoverland Backend
-`Luau` `Roblox Studio` `Rojo`
-
-As co-founder and lead developer, I owned the backend of a Roblox MMO: data persistence, the currency and progression economy, and a 7-tier ranking system. Shipped with a two-person engineering team as part of Roblox Jumpstart.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎹 Practice Dojo
-`React Native` `Expo` `Supabase` `RevenueCat`
-
-A music education platform with a student, teacher, and studio role hierarchy, a community "Circles" feature, and in-app purchases. Converted from web to mobile with Expo.
 
 </td>
 <td width="50%" valign="top">
