@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FFB6D9,100:E7C6FF&height=200&section=header&text=%E2%99%A1%20hi,%20i'm%20mari!%20%E2%99%A1&fontColor=8F5F79&fontSize=46&fontAlignY=36&desc=full-stack%20engineer%20%E2%9C%BF%20game%20dev%20%E2%9C%BF%20robotics%20and%20hardware%20girly&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
+<img src="./bow.svg" width="280" alt="Animated kawaii pink bow" />
+
 # ˚ʚ♡ɞ˚ Marissa Curry ˚ʚ♡ɞ˚
 
 **Full-Stack Engineer · Game Developer · Backend & Systems · UC Berkeley MAS-E (Power & Autonomous Systems) · Applied AI Builder**

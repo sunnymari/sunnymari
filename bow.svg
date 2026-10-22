@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 270" width="420" height="270" role="img" aria-label="Animated pink bow">
+  <style>
+    .sway { transform-origin: 210px 115px; animation: sway 3.2s ease-in-out infinite; }
+    .loopL { transform-origin: 210px 115px; animation: puffL 1.6s ease-in-out infinite; }
+    .loopR { transform-origin: 210px 115px; animation: puffR 1.6s ease-in-out infinite; }
+    .tailL { transform-origin: 200px 125px; animation: flutterL 2.4s ease-in-out infinite; }
+    .tailR { transform-origin: 220px 125px; animation: flutterR 2.4s ease-in-out infinite; }
+    .knot  { transform-origin: 210px 116px; animation: beat 1.6s ease-in-out infinite; }
+    .tw { transform-box: fill-box; transform-origin: center; animation: twinkle 2s ease-in-out infinite; }
+    .tw2 { animation-delay: .5s; } .tw3 { animation-delay: 1s; } .tw4 { animation-delay: 1.5s; }
+    .heart { transform-box: fill-box; transform-origin: center; animation: rise 4s ease-in infinite; opacity: 0; }
+    .h2 { animation-delay: 1.3s; } .h3 { animation-delay: 2.6s; }
+    @keyframes sway { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(4deg); } }
+    @keyframes puffL { 0%,100% { transform: scale(1); } 50% { transform: scale(1.05,.97); } }
+    @keyframes puffR { 0%,100% { transform: scale(1.05,.97); } 50% { transform: scale(1); } }
+    @keyframes flutterL { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(5deg); } }
+    @keyframes flutterR { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(-5deg); } }
+    @keyframes beat { 0%,100% { transform: scale(1); } 50% { transform: scale(1.08); } }
+    @keyframes twinkle { 0%,100% { opacity: .2; transform: scale(.6) rotate(0deg); } 50% { opacity: 1; transform: scale(1.15) rotate(20deg); } }
+    @keyframes rise { 0% { opacity: 0; transform: translateY(0) scale(.6); } 20% { opacity: 1; } 100% { opacity: 0; transform: translateY(-70px) scale(1.1); } }
+  </style>
+  <defs>
+    <linearGradient id="ribbon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFB6D9"/>
+      <stop offset="1" stop-color="#FF6FB5"/>
+    </linearGradient>
+    <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD6E8"/>
+      <stop offset="1" stop-color="#FF9FCB"/>
+    </linearGradient>
+    <linearGradient id="tail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF8FC7"/>
+      <stop offset="1" stop-color="#E85A9E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- sparkles -->
+  <g fill="#FFC2E0">
+    <path class="tw" d="M60 60 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5z"/>
+    <path class="tw tw2" fill="#E7C6FF" d="M352 48 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
+    <path class="tw tw3" d="M370 175 l5 12 12 5 -12 5 -5 12 -5 -12 -12 -5 12 -5z"/>
+    <path class="tw tw4" fill="#E7C6FF" d="M42 180 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z"/>
+  </g>
+
+  <!-- floating hearts -->
+  <g fill="#FF8FC7">
+    <path class="heart" d="M120 215 c-6 -9 -18 -2 -10 8 l10 10 10 -10 c8 -10 -4 -17 -10 -8z"/>
+    <path class="heart h2" fill="#FFB6D9" d="M300 220 c-5 -8 -15 -2 -8 7 l8 8 8 -8 c7 -9 -3 -15 -8 -7z"/>
+    <path class="heart h3" fill="#C8A2FF" d="M210 240 c-4 -7 -13 -2 -7 6 l7 7 7 -7 c6 -8 -3 -13 -7 -6z"/>
+  </g>
+
+  <g class="sway">
+    <!-- tails -->
+    <g class="tailL">
+      <path d="M200 125 L152 236 L172 222 L182 248 L216 132 Z" fill="url(#tail)" stroke="#D94C93" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+    <g class="tailR">
+      <path d="M220 125 L268 236 L248 222 L238 248 L204 132 Z" fill="url(#tail)" stroke="#D94C93" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+
+    <!-- left loop -->
+    <g class="loopL">
+      <path d="M210 115 C160 35 70 35 78 115 C86 185 165 165 210 115 Z" fill="url(#ribbon)" stroke="#D94C93" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M204 115 C168 72 112 70 116 114 C120 146 170 140 204 115 Z" fill="url(#inner)"/>
+      <path d="M100 84 C108 66 128 58 146 60" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+      <g fill="#FFFFFF" opacity=".85">
+        <circle cx="100" cy="128" r="5"/><circle cx="132" cy="150" r="4"/><circle cx="92" cy="104" r="3.5"/>
+      </g>
+    </g>
+
+    <!-- right loop -->
+    <g class="loopR">
+      <path d="M210 115 C260 35 350 35 342 115 C334 185 255 165 210 115 Z" fill="url(#ribbon)" stroke="#D94C93" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M216 115 C252 72 308 70 304 114 C300 146 250 140 216 115 Z" fill="url(#inner)"/>
+      <path d="M274 60 C292 58 312 66 320 84" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+      <g fill="#FFFFFF" opacity=".85">
+        <circle cx="320" cy="128" r="5"/><circle cx="288" cy="150" r="4"/><circle cx="328" cy="104" r="3.5"/>
+      </g>
+    </g>
+
+    <!-- knot -->
+    <g class="knot">
+      <ellipse cx="210" cy="116" rx="24" ry="28" fill="url(#ribbon)" stroke="#D94C93" stroke-width="2.5"/>
+      <path d="M198 104 C204 98 214 98 220 104" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity=".75"/>
+      <!-- tiny face -->
+      <circle cx="202" cy="118" r="2.6" fill="#7A3B5E"/>
+      <circle cx="218" cy="118" r="2.6" fill="#7A3B5E"/>
+      <path d="M206 124 Q210 128 214 124" fill="none" stroke="#7A3B5E" stroke-width="2" stroke-linecap="round"/>
+      <ellipse cx="197" cy="125" rx="4" ry="2.5" fill="#FF6FB5" opacity=".55"/>
+      <ellipse cx="223" cy="125" rx="4" ry="2.5" fill="#FF6FB5" opacity=".55"/>
+    </g>
+  </g>
+</svg>
