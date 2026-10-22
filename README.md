@@ -25,6 +25,7 @@
 - 🏡 Before that I built backend services at **CoStar Group (Homes.com)** and worked in investment technology at **Wellington Management**.
 - ✨ I'm a former **MIT AI Research Fellow**, a **JP Morgan hackathon winner**, and I've spoken at **Congress on equitable AI**.
 - 🎀 I co-founded **Design for Users**, an applied AI and UX agency.
+- 🎀 Proud Sanrio lover, and My Melody is my favorite character. ♡
 - 🎹 Off the keyboard: piano since age 3, cozy games, Roblox, surfing, and national parks.
 
 <div align="center">˚ ༘ ♡ ⋆｡˚ ❀ ˚ ༘ ♡ ⋆｡˚</div>
