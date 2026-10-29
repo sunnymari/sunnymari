@@ -72,10 +72,10 @@ Built and maintained backend services for a large real estate platform at CoStar
 </td>
 <td width="50%" valign="top">
 
-### 💸 Hedge Wallet
-`MoonPay API` `Jito API`
+### [📝 Technical Musings](https://github.com/sunnymari/technical-musings)
+`Technical Writing` `Diagrams` `Debugging`
 
-Built through Design for Users. Integrated on-ramp payments and Solana transaction APIs, getting unfamiliar external protocols working correctly end to end.
+A corner of GitHub where I think out loud about what I build, break, and fix. Real write-ups with diagrams, code from the actual project, the bugs I hit, and what I'd do differently. ♡
 
 </td>
 </tr>
