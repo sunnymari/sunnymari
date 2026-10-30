@@ -90,10 +90,10 @@ My portfolio as an interactive 3D dollhouse: five kawaii rooms and a walking chi
 </td>
 <td width="50%" valign="top">
 
-### 📸 Great Grids
-`Applied AI`
+### [🤖 Starbot Actuator Diagnostics](https://marissacodes.com/actuator-diagnostics)
+`Python` `CAN bus` `Three.js`
 
-An AI Instagram strategy tool that plans your grid and connects creators through posting circles.
+A pink 3D robot with 28 simulated actuators. Inject faults, read diagnostic codes and freeze-frames, and watch it recover, with a live browser demo and the Python CAN-bus source. ♡
 
 </td>
 </tr>
